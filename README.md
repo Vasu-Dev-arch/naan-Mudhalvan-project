@@ -1,4 +1,4 @@
-# naan-Mudhalvan-project
+# Naan-Mudhalvan-project
 
 # Sentiment Analysis - Emotion Classifier
 
